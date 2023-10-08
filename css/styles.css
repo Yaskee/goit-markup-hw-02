@@ -35,7 +35,7 @@ body {
 .header-address {
   font-style: normal;
 }
-.header-mailme {
+.header-contact {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-size: 16px;
@@ -44,21 +44,8 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.header-mailme:focus,
-.header-mailme:hover {
-  color: #404bbf;
-}
-.header-tel {
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.header-tel:focus,
-.header-tel:hover {
+.header-contact:focus,
+.header-contact:hover {
   color: #404bbf;
 }
 .first-section {
