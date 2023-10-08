@@ -6,32 +6,38 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-.logo {
+.header-navigation {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #2e2f42;
+  }
+.header-logo {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
+  letter-spacing: 0.03em;
   color: #4d5ae5;
+  text-transform: uppercase;
 }
-.logospan {
+.header-logo-words {
   color: #2e2f42;
 }
-.navigation {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  color: #2e2f42;
-}
-.navigator:hover,
-.navigator:focus {
+.header-navigation-menu:hover,
+.header-navigation-menu:focus {
   color: #404bbf;
 }
-.addressa {
+.header-address {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-size: 16px;
   font-weight: 400;
   color: #2e2f42;
+}
+.header-mailme:focus {
+  color: #404bbf;
+}
 }
 h1 {
   font-family: 'Roboto', sans-serif;
@@ -40,7 +46,7 @@ h1 {
   font-weight: 700;
   color: #ffffff;
 }
-.button-service {
+.first-section-button {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -48,13 +54,9 @@ h1 {
   background-color: #4d5ae5;
   cursor: pointer;
 }
-.button-service:hover,
-.button-service:focus {
+.first-section-button:hover,
+.first-section-button:focus {
   background-color: #404bbf;
-}
-.mailme:focus {
-  color: #404bbf;
-}
 h3 {
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
