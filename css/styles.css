@@ -89,10 +89,10 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.second-section {
+.third-section {
   background-color: F4F4FD;
 }
-.second-section-title {
+.third-section-title {
   font-family: 'Roboto', sans-serif;
   font-size: 36px;
   font-weight: 700;
@@ -102,10 +102,10 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.second-section-cards {
+.third-section-cards {
   background-color: #ffffff;
 }
-.second-section-names {
+.third-section-names {
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
   font-weight: 500;
