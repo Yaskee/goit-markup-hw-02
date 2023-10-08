@@ -1,0 +1,75 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #434455;
+  background-color: #ffffff;
+}
+.logo {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  color: #4d5ae5;
+}
+.logospan {
+  color: #2e2f42;
+}
+.navigation {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #2e2f42;
+}
+.navigator:hover,
+.navigator:focus {
+  color: #404bbf;
+}
+.addressa {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 400;
+  color: #2e2f42;
+}
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 56px;
+  line-height: 1.071;
+  font-weight: 700;
+  color: #ffffff;
+}
+.button-service {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #ffffff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+.button-service:hover,
+.button-service:focus {
+  background-color: #404bbf;
+}
+.mailme:focus {
+  color: #404bbf;
+}
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #2e2f42;
+}
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  color: #2e2f42;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #434455;
+}
