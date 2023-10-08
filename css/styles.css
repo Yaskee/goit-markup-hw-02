@@ -6,12 +6,6 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-.header-navigation {
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    font-weight: 500;
-    color: #2e2f42;
-  }
 .header-logo {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
@@ -24,6 +18,12 @@ body {
 .header-logo-words {
   color: #2e2f42;
 }
+.header-navigation {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #2e2f42;
+  }
 .header-navigation-menu:hover,
 .header-navigation-menu:focus {
   color: #404bbf;
