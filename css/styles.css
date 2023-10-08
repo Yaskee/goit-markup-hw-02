@@ -37,25 +37,30 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.header-mailme:focus, .header-mailme:active {
+.header-address .header-mailme:focus, .header-mailme:active {
   color: #404bbf;
 }
-}
-.header-tel:focus, .header-tel:active {
+.header-address .header-tel:focus, .header-tel:active {
   color: #404bbf;
 }
+.first-section {
+    background-color: #2E2F42;
 }
 h1 {
   font-family: 'Roboto', sans-serif;
   font-size: 56px;
-  line-height: 1.071;
+  line-height: 1.07;
   font-weight: 700;
+  letter-spacing: 0.02em;
+  text-align: center;
   color: #ffffff;
 }
 .first-section-button {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-weight: 500;
   color: #ffffff;
   background-color: #4d5ae5;
   cursor: pointer;
