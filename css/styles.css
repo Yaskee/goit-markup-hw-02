@@ -1,7 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   color: #434455;
   background-color: #ffffff;
@@ -32,9 +31,6 @@ body {
 .header-navigation-menu:focus {
   color: #404bbf;
 }
-.header-address {
-  font-style: normal;
-}
 .header-contact {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
@@ -55,7 +51,6 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 56px;
   line-height: 1.07;
-  font-weight: 700;
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
@@ -68,7 +63,6 @@ body {
   font-weight: 500;
   color: #ffffff;
   background-color: #4d5ae5;
-  cursor: pointer;
 }
 .first-section-button:hover,
 .first-section-button:focus {
@@ -85,7 +79,6 @@ body {
 .paragraph-text {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  font-weight: 400;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -95,7 +88,6 @@ body {
 .third-section-title {
   font-family: 'Roboto', sans-serif;
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
@@ -116,7 +108,6 @@ body {
 .fourth-section-title {
   font-family: 'Roboto', sans-serif;
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
