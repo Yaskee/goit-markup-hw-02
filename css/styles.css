@@ -31,6 +31,9 @@ body {
 .header-navigation-menu:focus {
   color: #404bbf;
 }
+address {
+    font-style: normal;
+}
 .header-contact {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
@@ -54,6 +57,9 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
+}
+button {
+    cursor: pointer;
 }
 .first-section-button {
   font-family: 'Roboto', sans-serif;
